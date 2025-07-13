@@ -1,0 +1,49 @@
+.first{
+    display: flex;
+    gap: 820px;
+    padding: 50px 150px;
+    height: 150px;
+    max-width: 1140px;
+    
+}
+.logo{
+    font-weight:900px;
+    font-size: 35px;
+    width: 99px;
+    height: 51px;
+    color: #4E47FF;
+}
+.btn-clr{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+}
+.signup{
+    width: 500px;
+    border-radius: 10px;
+   
+    height: 50px;
+    margin-top: 30px;
+    border: none;
+}
+.second{
+    height: 350px;
+    
+    text-align: center;
+    
+    justify-content: space-between;
+    
+}
+.bg-image{
+    background-image: url(../Assets/Hero-bg.png);
+}
+.stay-focused{
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+}
+.cool{
+    font-size: 65px;
+    font-weight: bold;
+    
+}
