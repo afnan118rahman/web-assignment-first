@@ -120,5 +120,71 @@ border-radius: 6px;
     height: 2px;
     text-align: center;
     justify-content: space-between;
-    padding: 0 20px;
+    /* padding: 0 20px; */
+}
+.avarter{
+    display: flex;
+    gap: 2px;
+    /* height: 46px; */
+    /* max-width: 318px; */
+    
+}
+.writing{
+    height: 46px;
+    font-size: x-small;
+    color: rgb(95, 94, 94);
+    
+
+}
+.av{
+    height: 46px;
+    border-radius: 50%;
+}
+
+.cmnt{
+    display: flex;
+}
+.fifth{
+    /* display: flex; */
+    max-width: 1140px;
+    height: 300px;
+    justify-content: space-between;
+    /* text-align: center; */
+    margin-left: 151px;
+    margin-right: 149px;
+    margin-top: 119px;
+}
+.flex-or-na{display: flex;}
+.what-our{
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+    color: #252432;
+}
+.cmnts{
+    height: 250px;
+    width: 360px;
+    /* padding-right: 20px; */
+    /* padding-left: 20px; */
+}
+span{
+    color:#FFB805;
+}
+.hfive{
+    max-width: 318px;
+    height: 44px;
+    color: #2F2F2F;
+}
+.sixet{
+    display: flex;
+    gap: 115px;
+    margin-top: 92px;
+    margin-left: 150px;
+    margin-right: 150px;
+    /* text-align: center; */
+    justify-content: center;
+}
+.lets{
+    height: 230px;
+    max-width: 530;
 }
